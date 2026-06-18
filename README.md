@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="https://github.com/ChijiokeOkorji/ChijiokeOkorji/blob/main/software-developer.png" 
+<img src="https://github.com/ksarankumar/ksarankumar/blob/main/work_station.jpg" 
      alt="Software developer workspace banner" />
 
 <h1 align="center">
