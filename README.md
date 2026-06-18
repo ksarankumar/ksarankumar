@@ -41,7 +41,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,sql,aws,postman,vscode,ssms" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,postman,vscode" />
 </p>
 
 ---
@@ -60,13 +60,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ksarankumar&row=1&column=6&margin-w=15&margin-h=15" />
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
