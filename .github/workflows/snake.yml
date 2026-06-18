@@ -1,9 +1,12 @@
 name: Generate contribution snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily
-  workflow_dispatch:     # Allows manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
