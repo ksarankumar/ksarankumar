@@ -91,5 +91,5 @@
 ---
 
 <p align="center">
-  <strong>“Build systems that scale — not just code that works.”</strong>
+  <strong>“Build systems that scale - not just code that works.”</strong>
 </p>
