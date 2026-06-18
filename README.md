@@ -9,7 +9,7 @@
      alt="Software developer workspace banner" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Saran+Kumar;Backend+%7C+.NET+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=44&center=true&vCenter=true&width=600&height=70&color=C77DFF&duration=4000&lines=Hi+There!+👋;I'm+Saran+Kumar" />
 </h1>
 
 <h3 align="center">
