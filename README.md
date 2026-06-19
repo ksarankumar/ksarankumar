@@ -60,7 +60,7 @@
 
 ---
 ## Tech Stack
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="140"><strong>Backend</strong></td>
@@ -75,6 +75,7 @@
     <td align="center"><strong>Cloud & DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+       <img src="https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
@@ -84,17 +85,17 @@
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+       <img src="https://img.shields.io/badge/GitHub_Copilot-D97757?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
 </table>
-
+</div>
 ## 🐍 Contribution Graph
 
 <div align="center">
