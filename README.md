@@ -35,7 +35,7 @@
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,postman,vscode,cpp,js" />
   <div align="center">
 <table>
   <tr>
